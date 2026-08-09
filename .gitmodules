@@ -1,0 +1,15 @@
+[submodule "SafeDoHCapture"]
+	path = SafeDoHCapture
+	url = https://github.com/RongDuJiKsp/SafeDoHCapture.git
+[submodule "dnstt-tester"]
+	path = dnstt-tester
+	url = https://github.com/RongDuJiKsp/dnstt-tester.git
+[submodule "GoDoHCaper"]
+	path = GoDoHCaper
+	url = https://github.com/RongDuJiKsp/GoDoHCaper.git
+[submodule "pcapSpliter"]
+	path = pcapSpliter
+	url = https://github.com/RongDuJiKsp/pcapSpliter.git
+[submodule "Emerging-DoHExfil-Tunnel"]
+	path = Emerging-DoHExfil-Tunnel
+	url = https://github.com/RongDuJiKsp/Emerging-DoHExfil-Tunnel
