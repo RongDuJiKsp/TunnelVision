@@ -1,4 +1,4 @@
-# XTU-TunnelVision
+# TunnelVision
 
 基于 DNS-over-HTTPS (DoH) 的隧道流量检测与分析研究项目。本项目聚焦于 DNS 隧道技术的流量特征采集、自动化测试与数据分析，旨在为隧道流量识别提供数据支撑和工具链。
 
